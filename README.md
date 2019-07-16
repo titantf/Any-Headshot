@@ -1,3 +1,1 @@
-Any Headshot
----
-Deal critical damage headshots with any weapon.
+### No ConVars and Commands
